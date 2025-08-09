@@ -1,12 +1,12 @@
 # TITANIC-DATA-ANALYSIS-PROJECT
-Titanic Dataset – Data Cleaning &amp; Exploratory Data Analysis Report
+Titanic Dataset – Data Cleaning & Exploratory Data Analysis Report
 Dataset Source: Kaggle Titanic Competition
 Objective: Clean the dataset, explore variable relationships, and identify patterns and trends related to passenger survival.
 
 1. Data Cleaning Process
 Missing Values:
 
-    Cabin column dropped due to excessive missing values (77% missing).
+    The cabin column dropped due to excessive missing values (77% missing).
 
     Age missing values filled with the median age.
 
@@ -50,16 +50,17 @@ Fare
 
 Embarkation Port (Embarked)
 
-   Passengers who boarded at Cherbourg (‘C’) had the highest survival rate (~55%).
+    Passengers who boarded at Cherbourg (‘C’) had the highest survival rate (~55%).
 
-   Southampton (‘S’) passengers had the lowest (~34%).
+    Southampton (‘S’) passengers had the lowest (~34%).
 
 3. Correlation Insights
-    Sex and Pclass showed the strongest correlation with Survived.
+   
+    Sex and Pclass showed the strongest correlation with the Survived variable.
 
     Fare had a positive correlation with survival.
 
     Age had a weak negative correlation with survival.
 
-4. Conclusion
-The analysis highlights socio-economic status, gender, and point of embarkation as major factors influencing survival on the Titanic. These findings align with historical accounts that women, children, and first-class passengers were prioritized during evacuation.
+5. Conclusion
+   The analysis highlights socio-economic status, gender, and point of embarkation as major factors influencing survival on the Titanic. These findings align with historical accounts that women, children, and        first-class passengers were prioritized during evacuation.
