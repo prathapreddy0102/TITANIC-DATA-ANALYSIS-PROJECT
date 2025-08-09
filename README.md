@@ -62,5 +62,5 @@ Embarkation Port (Embarked)
 
     Age had a weak negative correlation with survival.
 
-5. Conclusion
+4. Conclusion
    The analysis highlights socio-economic status, gender, and point of embarkation as major factors influencing survival on the Titanic. These findings align with historical accounts that women, children, and        first-class passengers were prioritized during evacuation.
